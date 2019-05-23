@@ -12,14 +12,22 @@
 
 [Reference](https://www.briankoponen.com/vanilla-world-warcraft-addons/)
 
-1. [Super Macro](https://github.com/Monteo/SuperMacro)
-2. [Zorlen](https://www.wowinterface.com/downloads/info4814-ZorlenFunctionsLibrary.html)
-3. [Smart Restore](https://wow.curseforge.com/projects/project-2543)
-4. [Cartographer](http://www.vanilla-addons.com/dls/cartographer/)
-5. [Equip Compare](https://legacy-wow.com/vanilla-addons/equipcompare/)
-6. [YaHT](https://github.com/Aviana/YaHT)
-7. [Aux](https://github.com/shirsig/aux-addon)
-8. [OmniCC](http://www.vanilla-addons.com/dls/omnicc/)
+1. [Risen UI](https://drive.google.com/file/d/0B5QT3H5F-mBXVFphQzd2WUxEa1E/view)
+2. [Questie](https://legacy-wow.com/vanilla-addons/questie/)
+3. [Informant](https://legacy-wow.com/vanilla-addons/informant/)
+
+   - [EnhTooltip](https://legacy-wow.com/vanilla-addons/EnhTooltip/)
+   - [Stubby](https://legacy-wow.com/vanilla-addons/stubby/)
+
+4. [Super Macro](https://github.com/Monteo/SuperMacro)
+5. [Zorlen](https://www.wowinterface.com/downloads/info4814-ZorlenFunctionsLibrary.html)
+6. [Smart Restore](https://wow.curseforge.com/projects/project-2543)
+
+7. [Equip Compare](https://legacy-wow.com/vanilla-addons/equipcompare/)
+8. [YaHT](https://github.com/Aviana/YaHT)
+9. [Aux](https://github.com/shirsig/aux-addon)
+10. [Cartographer](http://www.vanilla-addons.com/dls/cartographer/) -- UNINSTALL
+11. [OmniCC](http://www.vanilla-addons.com/dls/omnicc/) -- UNINSTALL
 
 ## Macros
 
